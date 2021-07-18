@@ -10,4 +10,7 @@ To install the package on windows, run the command below in the cmd
 
 ![image](https://user-images.githubusercontent.com/70878223/125107460-7be74080-e0fe-11eb-8409-73c176572fd4.png)
 
+## Output ##
+![test](https://user-images.githubusercontent.com/70878223/126073128-6179e020-41d8-40e6-83be-218de22f2b2e.PNG)
+
 
